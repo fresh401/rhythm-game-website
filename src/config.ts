@@ -12,7 +12,7 @@ export const cheer = {
   fromName: 'Mehdi',
   /** The message revealed at the end of the song (URL: ?msg=) */
   message:
-    "Whatever today threw at you, you kept going — and that's seriously impressive. You make everything around you brighter, and I'm so lucky to have you. This little song is for you. 💛",
+    "Whatever today threw at you, you kept going — and that's seriously impressive. You make everything around you brighter, and I'm so lucky to have you. This little song is for you. 💛\neverything made by me :d",
   /**
    * The song to play. Drop your audio file into `public/music/` and point at it here.
    * If the file is missing, a built-in feel-good track plays instead.
