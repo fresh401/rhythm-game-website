@@ -403,11 +403,7 @@ function PersonalizeDialog({ config }: { config: CheerConfig }) {
 
   return (
     <Dialog>
-      <DialogTrigger asChild>
-        <button className="inline-flex items-center gap-1.5 font-semibold text-[#ffc93c] underline-offset-4 hover:underline">
-          <Wand2 className="size-4" /> Make a personal link
-        </button>
-      </DialogTrigger>
+      
       <DialogContent className="text-left">
         <DialogHeader>
           <DialogTitle className="font-display text-2xl">Make it personal</DialogTitle>
