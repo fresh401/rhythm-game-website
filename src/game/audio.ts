@@ -12,7 +12,7 @@ export const DIFFICULTIES: Record<
   Difficulty,
   { label: string; blurb: string; minGap: number; speed: number }
 > = {
-  1: { label: 'pussy', blurb: 'for down syndrome', minGap: 0.42, speed: 380 },
+  1: { label: 'pussy', blurb: 'for down_syndrome', minGap: 0.42, speed: 380 },
   2: { label: 'normal', blurb: 'Just right', minGap: 0.26, speed: 480 },
   3: { label: 'masochist', blurb: 'do it :)', minGap: 0.14, speed: 600 },
 }
