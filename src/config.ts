@@ -9,7 +9,7 @@ export const cheer = {
   /** Your friend's name (URL: ?to=) */
   friendName: 'Asmae',
   /** Your name (URL: ?from=) */
-  fromName: 'mehdi,
+  fromName: 'Mehdi,
   /** The message revealed at the end of the song (URL: ?msg=) */
   message:
     "Whatever today threw at you, you kept going — and that's seriously impressive. You make everything around you brighter, and I'm so lucky to have you. This little song is for you. 💛",
