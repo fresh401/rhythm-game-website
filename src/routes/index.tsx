@@ -315,14 +315,14 @@ function Results({
     : 1
   const grade =
     accuracy >= 0.92
-      ? { letter: 'S', title: 'Absolute superstar' }
+      ? { letter: 'S', title: 'How tf did u get an S' }
       : accuracy >= 0.8
-        ? { letter: 'A', title: 'Amazing rhythm' }
+        ? { letter: 'A', title: 'mi bombo' }
         : accuracy >= 0.65
-          ? { letter: 'B', title: 'Brilliant groove' }
+          ? { letter: 'B', title: 'you can do better gng' }
           : accuracy >= 0.45
-            ? { letter: 'C', title: 'Certified cool' }
-            : { letter: '♥', title: 'Best effort, best friend' }
+            ? { letter: 'C', title: 'Certified cancer' }
+            : { letter: 'D', title: 'playing with your toes?' }
 
   return (
     <main className="relative z-10 mx-auto flex min-h-screen max-w-2xl flex-col items-center justify-center px-5 py-14 text-center">
