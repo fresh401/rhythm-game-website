@@ -18,7 +18,7 @@ export const cheer = {
    * If the file is missing, a built-in feel-good track plays instead.
    */
   songUrl: '/music/a_melody_about_asmae.mp3',
-  songTitle: 'Your Song',
+  songTitle: 'A music about you',
   /** Little pop-ups that appear while your friend plays. */
   compliments: [
     'You rock!',
