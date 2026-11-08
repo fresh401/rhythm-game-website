@@ -12,9 +12,9 @@ export const DIFFICULTIES: Record<
   Difficulty,
   { label: string; blurb: string; minGap: number; speed: number }
 > = {
-  1: { label: 'Chill', blurb: 'Relaxed & cozy', minGap: 0.42, speed: 380 },
-  2: { label: 'Groovy', blurb: 'Just right', minGap: 0.26, speed: 480 },
-  3: { label: 'Wild', blurb: 'Bring it on!', minGap: 0.14, speed: 600 },
+  1: { label: 'pussy', blurb: 'for down syndrome', minGap: 0.42, speed: 380 },
+  2: { label: 'normal', blurb: 'Just right', minGap: 0.26, speed: 480 },
+  3: { label: 'masochist', blurb: 'do it :)', minGap: 0.14, speed: 600 },
 }
 
 export type ChartEvent = { t: number; lane: number; level: Difficulty }
