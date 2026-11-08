@@ -17,7 +17,7 @@ export const cheer = {
    * The song to play. Drop your audio file into `public/music/` and point at it here.
    * If the file is missing, a built-in feel-good track plays instead.
    */
-  songUrl: '/music/song.mp3',
+  songUrl: '/music/a_melody_about_asmae.mp3',
   songTitle: 'Your Song',
   /** Little pop-ups that appear while your friend plays. */
   compliments: [
